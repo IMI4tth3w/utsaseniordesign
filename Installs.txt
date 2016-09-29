@@ -1,0 +1,37 @@
+http://docs.openbci.com/software/06-labstreaminglayer
+
+https://github.com/sccn/labstreaminglayer
+
+
+OPENBCI 
+http://www.psychopy.org/
+
+Python
+Labstreaminglayer
+
+
+pylsl
+Psycopy
+
+Anaconda 
+Py
+
+MNE
+sklearn
+
+http://mne-tools.github.io/mne-python-intro/
+pip install scikit-learn
+pip install mne
+sudo apt-get install psychopy
+
+
+sudo apt-get install texlive texlive-latex-extra pandoc
+
+http://www.psychopy.org/installation.html
+for psycopy manual install 
+
+pip install numpy scipy matplotlib pandas pyopengl pyglet pillow moviepy lxml openpyxl configobj pyyaml gevent greenlet msgpack-python psutil tables requests[security] pyosf cffi pysoundcard pysoundfile seaborn psychopy_ext bidi psychopy
+pip install pyserial pyparallel egi iolabs
+pip install pytest coverage sphinx
+pip install pypiwin32
+pip install pyobjc
